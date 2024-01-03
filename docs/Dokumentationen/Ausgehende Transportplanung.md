@@ -19,6 +19,7 @@ nav_order: 2
 
 Bild mit Unterschrift linksbündig
 
-![](LeBit-Software-Consult-GmbH.github.io\docs\assets\images\Hund.jpg)
+![](\..\assets\images\Hund.jpg)
 
-[Abbildung 1: Hund]
+Abbildung 1: Hund
+{: .fs-2 }
