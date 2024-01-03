@@ -17,4 +17,5 @@ nav_order: 2
 
 --- 
 
-![](../../assets/images/hund.jpg)
+![](LeBit-Software-Consult-GmbH.github.io\docs\assets\images\Hund.jpg)
+"[Abbildung 1: Hund]"
