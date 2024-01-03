@@ -89,4 +89,6 @@ color_scheme: dark
 #   warning:
 #     title: Warning
 #     color: red 
-    
+
+logo: "/assets/images/Logo.png"
+favicon_ico: "/assets/images/Logo.png"
