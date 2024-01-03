@@ -19,7 +19,7 @@ nav_order: 2
 
 Bild mit Unterschrift linksbündig
 
-![](\../../assets/images/Hund.jpg)
+![](../../assets/images/Hund.jpg)
 
 *Abbildung 1: Hund*
 {: .fs-2 }
