@@ -5,10 +5,17 @@ parent: Dokumentationen
 nav_order: 1
 ---
 
-{: .text-delta } - TOC {:toc} 
-
 # LeBit Qualitätssicherung
-Lorem.. 
+ 
+{: .no_toc }
 
-## Überschrift 2
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+--- 
+
+## Einrichtung QS
 Lorem ipsum..
