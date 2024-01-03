@@ -21,5 +21,6 @@ Bild mit Unterschrift linksbündig
 
 ![](\..\assets\images\Hund.jpg)
 
-Abbildung 1: Hund
+*Abbildung 1: Hund*
 {: .fs-2 }
+
