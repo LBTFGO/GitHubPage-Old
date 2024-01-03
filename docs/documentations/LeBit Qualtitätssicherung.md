@@ -1,14 +1,12 @@
 ---
 layout: default
-title: "Test-Page"
-parent: documentation
+title: "LeBit Qualitätssicherung"
+parent: documentations
 nav_order: 1
-permalink: /LeBit Qualitätssicherung/
+permalink: /Qualitätssicherung/
 ---
 
 {: .text-delta } - TOC {:toc} 
-
-
 
 # Überschrift 1
 Lorem.. 
