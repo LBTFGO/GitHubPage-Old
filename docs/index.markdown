@@ -4,4 +4,10 @@
 
 layout: home
 title: "Startseite"
+parent: docs
+nav_order: 1
 ---
+
+Herzlich Willkommen!
+
+Hier finden Sie zukünftig alle LeBit App Dokumentationen.
