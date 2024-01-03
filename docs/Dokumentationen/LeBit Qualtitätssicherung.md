@@ -1,16 +1,13 @@
 ---
-layout: page
+layout: default
 title: "LeBit Qualitätssicherung"
 parent: Dokumentationen
 nav_order: 1
-permalink: /Qualitätssicherung/
----
+
+{: .text-delta } - TOC {:toc} 
 
 ---
 
-{: .text-delta } - Table of Contents {:toc} 
-
----
 
 
 
