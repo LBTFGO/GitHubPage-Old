@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "LeBit Qualitätssicherung"
+parent: Dokumentationen
 nav_order: 1
 permalink: /Qualitätssicherung/
 ---
@@ -13,7 +14,7 @@ permalink: /Qualitätssicherung/
 
 
 
-# Überschrift 1
+# LeBit Qualitätssicherung
 Lorem.. 
 
 ## Überschrift 2
