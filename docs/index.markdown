@@ -4,7 +4,6 @@
 
 layout: home
 title: "Startseite"
-parent: docs
 nav_order: 1
 ---
 
