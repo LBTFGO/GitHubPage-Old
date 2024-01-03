@@ -8,9 +8,6 @@ nav_order: 1
 
 ---
 
-
-
-
 # LeBit Qualitätssicherung
 Lorem.. 
 
