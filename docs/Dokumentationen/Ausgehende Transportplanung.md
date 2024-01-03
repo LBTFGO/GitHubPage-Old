@@ -21,6 +21,6 @@ Bild mit Unterschrift linksbündig
 
 ![](../../assets/images/Transportplanung/Hund.jpg)
 
-*Abbildung 1: Hund*
+*Abbildung 1: Katze*
 {: .fs-2 }
 
