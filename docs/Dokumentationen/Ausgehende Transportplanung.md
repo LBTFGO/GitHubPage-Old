@@ -36,8 +36,11 @@ nav_order: 2
         font-style: italic;
         text-align: center;
         font-size: smaller;
+         counter-increment: figure;
     }
-
+    figcaption::before {
+      content: "Abbildung " counter(figure) ": ";
+    }
 </style>
 
 Bild mit Unterschrift linksbündig
@@ -55,7 +58,10 @@ Bild mit Unterschrift zentriert
 
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="300" width="300" />
 
-<figcaption> Abbildung 2: Katze </figcaption>
+<figcaption>Katze2</figcaption>
+<figcaption>Katze3</figcaption>
+<figcaption>Katze4</figcaption>
+
 
 <br>
 
