@@ -17,9 +17,33 @@ nav_order: 1
 
 --- 
 
+<style>
+  body {
+      counter-reset: figure;
+    }
+  img {
+      margin: 0 auto;
+      display: block; 
+    }
+    figcaption {
+        font-style: italic;
+        text-align: center;
+        font-size: smaller;
+        counter-increment: figure;
+    }
+    figcaption::before {
+      content: "Abbildung " counter(figure) ": ";
+    }
+</style>
+
+<figcaption>Bildunterschrift</figcaption>
+<figcaption>Bildunterunterschrift</figcaption>
+
 ## Einrichtung QS
 Lorem ipsum..
 
 ### Parameter
+
+<figcaption>unter Bildunterunterschrift</figcaption>
 
 #### Wertart
