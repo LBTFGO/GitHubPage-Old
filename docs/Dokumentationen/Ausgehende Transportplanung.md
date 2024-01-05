@@ -5,6 +5,8 @@ parent: Dokumentationen
 nav_order: 2
 ---
 
+
+
 # LeBit Ausgehende Transportplanung
  
 {: .no_toc }
@@ -16,6 +18,22 @@ nav_order: 2
 {:toc}
 
 --- 
+
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3 {
+    color: red;
+  }
+  img {
+      margin: 0 auto;
+      display: block; 
+    }
+
+</style>
 
 Bild mit Unterschrift linksbündig
 
@@ -29,10 +47,11 @@ Bild mit Unterschrift linksbündig
 
 Bild mit Unterschrift zentriert
 
-<p align="center">
-<img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="300" width="300" /><br>
-<i> Abbildung 2: Katze </i>
-</p>
+
+<img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="300" width="300" />
+
+*Abbildung 2: Katze*
+{: .fs-2 }
 
 
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="450" width="450" />
