@@ -41,3 +41,5 @@ Bild mit Unterschrift zentriert
 </center>
 
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="450" width="450"/>
+
+![Hund](../../assets/images/Transportplanung/Hund.jpg){ width=60%, height=30px }
