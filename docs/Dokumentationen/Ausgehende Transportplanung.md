@@ -27,9 +27,11 @@ Bild mit Unterschrift linksbündig
 
 <br>
 
+<center>
+
 Bild mit Unterschrift zentriert
 
-<center>
+
 
 ![](../../assets/images/Transportplanung/Hund.jpg)
 
@@ -37,3 +39,5 @@ Bild mit Unterschrift zentriert
 {: .fs-2 }
 
 </center>
+
+<img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="450" width="450"/>
