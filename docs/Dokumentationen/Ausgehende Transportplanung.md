@@ -20,14 +20,6 @@ nav_order: 2
 --- 
 
 <style>
-  body {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-  }
-
-  h1, h2, h3 {
-    color: red;
-  }
   img {
       margin: 0 auto;
       display: block; 
@@ -36,7 +28,7 @@ nav_order: 2
         font-style: italic;
         text-align: center;
         font-size: smaller;
-         counter-increment: figure;
+        counter-increment: figure;
     }
     figcaption::before {
       content: "Abbildung " counter(figure) ": ";
@@ -47,16 +39,14 @@ Bild mit Unterschrift linksbündig
 
 
 ![](../../assets/images/Transportplanung/Hund.jpg)
-
-*Abbildung 1: Katze*
-{: .fs-2 }
+<figcaption>Katze1</figcaption>
 
 <br>
 
 Bild mit Unterschrift zentriert
 
 
-<img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="300" width="300" />
+![](../../assets/images/Transportplanung/Hund.jpg)
 
 <figcaption>Katze2</figcaption>
 <figcaption>Katze3</figcaption>
