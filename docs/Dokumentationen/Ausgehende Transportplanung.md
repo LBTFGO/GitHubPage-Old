@@ -27,18 +27,12 @@ Bild mit Unterschrift linksbündig
 
 <br>
 
-
-
 Bild mit Unterschrift zentriert
 
 <p align="center">
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="300" width="300" /><br>
-*Abbildung 2: Katze*
-{: .fs-2}
+<i> Abbildung 2: Katze </i>
 </p>
-
-
-
 
 
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="450" width="450" />
