@@ -10,10 +10,10 @@ nav_order: 2
 # LeBit Ausgehende Transportplanung
 {: .no_toc }
 
-## Table of contents
+## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
-* Inhaltsverzeichnis
+* TOC
 {:toc}
 
 --- 
