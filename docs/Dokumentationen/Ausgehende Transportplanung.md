@@ -11,9 +11,9 @@ nav_order: 2
 {: .no_toc }
 
 ## Table of contents
-{: .no_toc .text-delta toc_title: "Inhaltsverzeichnis"}
+{: .no_toc .text-delta }
 
-* TOC
+* Inhaltsverzeichnis
 {:toc}
 
 --- 
