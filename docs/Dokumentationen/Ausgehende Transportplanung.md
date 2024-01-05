@@ -32,6 +32,11 @@ nav_order: 2
       margin: 0 auto;
       display: block; 
     }
+    figcaption {
+        font-style: italic;
+        text-align: center;
+        font-size: smaller;
+    }
 
 </style>
 
@@ -50,9 +55,9 @@ Bild mit Unterschrift zentriert
 
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="300" width="300" />
 
-*Abbildung 2: Katze*
-{: .fs-2 }
+<figcaption> Abbildung 2: Katze </figcaption>
 
+<br>
 
 <img src="../../assets/images/Transportplanung/Hund.jpg" alt="Hund" title="Hund" height="450" width="450" />
 
