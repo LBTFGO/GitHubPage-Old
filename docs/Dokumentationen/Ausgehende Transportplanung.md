@@ -19,8 +19,21 @@ nav_order: 2
 
 Bild mit Unterschrift linksbündig
 
+
 ![](../../assets/images/Transportplanung/Hund.jpg)
 
 *Abbildung 1: Katze*
 {: .fs-2 }
 
+<br>
+
+Bild mit Unterschrift zentriert
+
+<center>
+
+![](../../assets/images/Transportplanung/Hund.jpg)
+
+*Abbildung 2: Katze*
+{: .fs-2 }
+
+</center>
