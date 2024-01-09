@@ -43,6 +43,10 @@ nav_order: 1
 ## Einrichtung QS
 Lorem ipsum..
 
+
+![](../../assets/images/QS/Abbildung%201.png)
+<figcaption>Screen</figcaption>
+
 ### Parameter
 
 <figcaption>unter Bildunterunterschrift</figcaption>
