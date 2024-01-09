@@ -12,7 +12,7 @@ permalink: /Dokumentationen/
 ## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
-- TOC
+* TOC
 {:toc}
 
 ---
