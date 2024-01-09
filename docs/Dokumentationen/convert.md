@@ -1,3 +1,21 @@
+---
+layout: default
+title: "LeBit Convert"
+parent: Dokumentationen
+nav_order: 4
+---
+
+# LeBit Qualitätssicherung
+{: .no_toc }
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+* TOC
+{:toc}
+
+---
+
 <style>
 
   body {
@@ -19,23 +37,6 @@
 
 </style>
 
----
-layout: default
-title: "LeBit Convert"
-parent: Dokumentationen
-nav_order: 4
----
-
-# LeBit Qualitätssicherung
-{: .no_toc }
-
-## Inhaltsverzeichnis
-{: .no_toc .text-delta }
-
-* TOC
-{:toc}
-
----
 
 **LeBit Test Markdown**
 
