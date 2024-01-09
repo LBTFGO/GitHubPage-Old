@@ -7,6 +7,7 @@ permalink: /Dokumentationen/
 ---
 
 # Dokumentationen
+{: .no_toc }
 
 ## Inhaltsverzeichnis
 {: .no_toc .text-delta }
