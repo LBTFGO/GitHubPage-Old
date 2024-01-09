@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 # LeBit Qualitätssicherung
- 
 {: .no_toc }
 
 ## Inhaltsverzeichnis
@@ -15,7 +14,8 @@ nav_order: 1
 - TOC
 {:toc}
 
---- 
+---
+
 <style>
 
   body {
