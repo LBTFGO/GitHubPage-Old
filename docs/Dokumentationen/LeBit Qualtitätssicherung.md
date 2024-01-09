@@ -9,7 +9,7 @@ nav_order: 1
  
 {: .no_toc }
 
-## Table of contents
+## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
 - TOC
@@ -34,7 +34,7 @@ nav_order: 1
     figcaption::before {
       content: "Abbildung " counter(figure) ": ";
     }
-    
+
 </style>
 
 <figcaption>Bildunterschrift</figcaption>
