@@ -1,3 +1,24 @@
+<style>
+
+  body {
+      counter-reset: figure;
+    }
+  img {
+      margin: 0 auto;
+      display: block; 
+    }
+    figcaption {
+        font-style: italic;
+        text-align: center;
+        font-size: smaller;
+        counter-increment: figure;
+    }
+    figcaption::before {
+      content: "Abbildung " counter(figure) ": ";
+    }
+
+</style>
+
 ---
 layout: default
 title: "LeBit Convert"
@@ -26,9 +47,8 @@ nav_order: 4
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-![](RackMultipart20240109-1-k2upu_html_5fe2557ea849c7a0.jpg)
-
-Abbildung 1: Standardplanung vs. Feinplanung
+![](../../assets/images/QS/Abbildung%201.png)
+<figcaption>Screenshot</figcaption>    
 
 # 2Notwendige Einrichtungen
 
